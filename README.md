@@ -1,5 +1,5 @@
 #### Welcome to my GitHub repository! This repository showcases a diverse range of projects that I've worked on, covering various domains such as data science, machine learning and NLP.
-# What's Inside:
+### What's Inside:
 - Stellar Classification:
 - AI vs Human Text:
 
